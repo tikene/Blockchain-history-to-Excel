@@ -19,7 +19,6 @@ replaceValues = {"received": "Received",
                     }
 
 def main():
-    system("cls")
     print("\n\n")
 
     for fileName in listdir():
